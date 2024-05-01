@@ -1,0 +1,108 @@
+[05:09:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:09:31] [ServerMain/INFO]: Loaded 1174 recipes
+[05:09:31] [ServerMain/INFO]: Loaded 1271 advancements
+[05:09:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[05:09:32] [Server thread/INFO]: Loading properties
+[05:09:32] [Server thread/INFO]: This server is running Paper version git-Paper-478 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 5436d44)
+[05:09:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:09:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:09:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[05:09:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[05:09:33] [Server thread/INFO]: Default game type: SURVIVAL
+[05:09:33] [Server thread/INFO]: Generating keypair
+[05:09:33] [Server thread/INFO]: Starting Minecraft server on *:32210
+[05:09:33] [Server thread/INFO]: Using epoll channel type
+[05:09:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:09:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:09:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[05:09:34] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[05:09:35] [Server thread/INFO]: [floodgate] Took 1,006ms to boot Floodgate
+[05:09:35] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
+[05:09:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[05:09:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[05:09:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:09:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:09:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:09:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:09:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:09:35] [Server thread/INFO]: Preparing level "world"
+[05:09:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:09:36] [Server thread/INFO]: Time elapsed: 247 ms
+[05:09:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:09:36] [Server thread/INFO]: Time elapsed: 153 ms
+[05:09:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:09:36] [Server thread/INFO]: Time elapsed: 51 ms
+[05:09:36] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] 
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-1bca642)
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] 
+[05:09:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:09:43] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:32210
+[05:09:43] [Server thread/INFO]: [Geyser-Spigot] Done (6.408s)! Run /geyser help for help!
+[05:09:43] [Server thread/INFO]: Running delayed init tasks
+[05:09:43] [Server thread/INFO]: Done (11.640s)! For help, type "help"
+[05:09:43] [Server thread/INFO]: Timings Reset
+[05:10:09] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /172.16.5.4 has disconnected for reason Please log into Xbox to join this server.
+[05:15:44] [User Authenticator #0/INFO]: UUID of player aptemtermux242 is 843f4c55-ba90-35b7-9fc5-3626adb735d8
+[05:15:46] [Server thread/INFO]: aptemtermux242 joined the game
+[05:15:46] [Server thread/INFO]: aptemtermux242[/172.16.5.4:58992] logged in with entity id 226 at ([world]-169.63820535069007, 62.0, -16.30000001192093)
+[05:18:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username VolarSeal229104
+[05:18:51] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] VolarSeal229104 (logged in as: VolarSeal229104) has connected to the Java server
+[05:18:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .VolarSeal229104 joined (UUID: 00000000-0000-0000-0009-01f9cb9ad185)
+[05:18:52] [Server thread/INFO]: .VolarSeal229104 joined the game
+[05:18:52] [Server thread/INFO]: .VolarSeal229104[/172.16.5.4:0] logged in with entity id 597 at ([world]-150.5, 66.0, 0.5)
+[05:19:43] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] VolarSeal229104 has disconnected from the Java server because of Bedrock client disconnected
+[05:19:43] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .VolarSeal229104 disconnected
+[05:19:43] [Server thread/INFO]: .VolarSeal229104 lost connection: Disconnected
+[05:19:43] [Server thread/INFO]: .VolarSeal229104 left the game
+[05:20:46] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username VolarSeal229104
+[05:20:46] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] VolarSeal229104 (logged in as: VolarSeal229104) has connected to the Java server
+[05:20:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .VolarSeal229104 joined (UUID: 00000000-0000-0000-0009-01f9cb9ad185)
+[05:20:46] [Server thread/INFO]: .VolarSeal229104 joined the game
+[05:20:46] [Server thread/INFO]: .VolarSeal229104[/172.16.5.4:0] logged in with entity id 828 at ([world]-140.21715, 65.0, 0.16992241)
+[05:22:09] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] VolarSeal229104 has disconnected from the Java server because of Bedrock client disconnected
+[05:22:09] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .VolarSeal229104 disconnected
+[05:22:09] [Server thread/INFO]: .VolarSeal229104 lost connection: Disconnected
+[05:22:09] [Server thread/INFO]: .VolarSeal229104 left the game
+[05:26:02] [Server thread/INFO]: aptemtermux242 lost connection: Disconnected
+[05:26:02] [Server thread/INFO]: aptemtermux242 left the game
+[05:27:10] [User Authenticator #1/INFO]: UUID of player aptemtermux242 is 843f4c55-ba90-35b7-9fc5-3626adb735d8
+[05:27:11] [Server thread/INFO]: aptemtermux242 joined the game
+[05:27:11] [Server thread/INFO]: aptemtermux242[/172.16.5.4:55112] logged in with entity id 1444 at ([world]-140.5, 65.0, -3.5)
+[05:28:34] [Server thread/INFO]: aptemtermux242 lost connection: Disconnected
+[05:28:34] [Server thread/INFO]: aptemtermux242 left the game
+[05:42:55] [Server thread/INFO]: Stopping the server
+[05:42:55] [Server thread/INFO]: Stopping server
+[05:42:55] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[05:42:55] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:42:55] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:42:55] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[05:42:55] [WebSocketConnectReadThread-61/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:42:55] [Server thread/INFO]: Saving players
+[05:42:55] [Server thread/INFO]: Saving worlds
+[05:42:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saved 199 block chunks, 108 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[05:42:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:42:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 34 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[05:42:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:42:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:42:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:42:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:42:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:42:55] [Server thread/INFO]: Flushing Chunk IO
+[05:42:55] [Server thread/INFO]: Closing Thread Pool
+[05:42:55] [Server thread/INFO]: Closing Server
